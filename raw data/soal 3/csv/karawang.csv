@@ -1,0 +1,15 @@
+-BEGIN HEADER-
+NASA/POWER CERES/MERRA2 Native Resolution Monthly and Annual 
+Dates (month/day/year): 01/01/2018 through 12/31/2022 
+Location: Latitude  -6.2497   Longitude 107.4161 
+Elevation from MERRA-2: Average for 0.5 x 0.625 degree lat/lon region = 3.47 meters
+The value for missing source data that cannot be computed or is outside of the sources availability range: -999 
+Parameter(s): 
+PRECTOTCORR     MERRA-2 Precipitation Corrected (mm/day) 
+-END HEADER-
+PARAMETER,YEAR,JAN,FEB,MAR,APR,MAY,JUN,JUL,AUG,SEP,OCT,NOV,DEC,ANN
+PRECTOTCORR,2018,10.55,15.82,10.55,5.27,0.0,0.0,0.0,0.0,0.0,5.27,5.27,5.27,5.27
+PRECTOTCORR,2019,15.82,10.55,10.55,10.55,5.27,0.0,0.0,0.0,0.0,0.0,5.27,10.55,5.27
+PRECTOTCORR,2020,10.55,21.09,10.55,5.27,5.27,0.0,0.0,0.0,5.27,5.27,5.27,5.27,5.27
+PRECTOTCORR,2021,10.89,24.3,14.29,8.36,5.32,4.66,1.78,2.09,3.98,6.11,9.3,10.39,8.35
+PRECTOTCORR,2022,8.43,7.31,8.71,9.05,4.73,4.34,4.09,3.19,4.32,8.19,6.91,7.61,6.4
